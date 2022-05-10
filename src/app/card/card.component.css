@@ -1,0 +1,17 @@
+.card-container {
+  margin: 70px;
+  width: 30%;
+  padding: 100px;
+  float: left;
+  box-shadow: 10px 12px 20px 2px lightgray;
+  
+  
+}
+
+button {
+  padding: 10px;
+  width: 15%;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
